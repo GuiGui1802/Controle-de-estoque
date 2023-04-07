@@ -12,7 +12,7 @@ Projeto de Estrutura de dados - Prof. Mario Augusto de Souza Liziér
 * Pilha: alocaçao estática.
 
 #### Sobre o projeto 
-
+esqueça tudo
 
 
 

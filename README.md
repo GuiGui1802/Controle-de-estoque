@@ -2,10 +2,10 @@
 Projeto de Estrutura de dados - Prof. Mário Augusto de Souza Liziér
 
 * Integrantes do Grupo:
-  * Lucas Lima Felix da Silva 
-  * Guilherme Fernades Rezende Santos 
-  * Mateus Tsuyoshi Matsuo Hashimoto
-  * Kaue Almeida Gonçalves de Oliveira
+  * Lucas Lima Felix da Silva            RA:
+  * Guilherme Fernades Rezende Santos    RA: 
+  * Mateus Tsuyoshi Matsuo Hashimoto     RA:
+  * Kaue Almeida Gonçalves de Oliveira   RA: 813939
 ----
 ### O projeto prático em grupo consiste na implementação de uma aplicação que utilize pelo menos duas estruturas de dados lineares implementadas,  respeitando ao máximo o conceito de TAD.
 * Lista: alocação dinâmica, duplamente encadeada, com sentinela e circular.

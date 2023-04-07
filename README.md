@@ -11,6 +11,11 @@ Projeto de Estrutura de dados - Prof. Mario Augusto de Souza Liziér
 * Lista: alocação dinâmica, duplamente encadeada, com sentinela e circular.
 * Pilha: alocaçao estática.
 
+#### Sobre o projeto 
+
+
+
+
 ## Rodando o Projeto
 1. Instale um compilador C em sua máquina.
 2. clone este repositório com o comando 'git clone https://github.com/Lucasllfs/Projeto-ED.git'.

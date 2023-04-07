@@ -2,7 +2,7 @@
 Projeto de Estrutura de dados - Prof. Mário Augusto de Souza Liziér
 
 * Integrantes do Grupo:
-  * Lucas Lima Felix da Silva             RA:
+  * Lucas Lima Felix da Silva             RA: 814131
   * Guilherme Fernades Rezende Santos     RA: 
   * Mateus Tsuyoshi Matsuo Hashimoto      RA:
   * Kaue Almeida Gonçalves de Oliveira    RA: 813939

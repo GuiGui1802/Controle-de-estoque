@@ -17,5 +17,5 @@ Cada nó da nossa lista representa um Pallet, cada nó contém uma pilha própri
 ## Rodando o Projeto
 1. Instale um compilador C em sua máquina.
 2. clone este repositório com o comando 'git clone https://github.com/Lucasllfs/Projeto-ED.git'.
-4. Com a pasta do projeto aberta no terminal, compile o código digitando o comando 'gcc main.c lista.c pilha.c -o programa'.
-5. Já compilado, basta digitar no termial './progama' que o programa será executado.
+3. Com a pasta do projeto aberta no terminal, compile o código digitando o comando 'gcc main.c lista.c pilha.c -o programa'.
+4. Já compilado, basta digitar no termial './progama' que o programa será executado.

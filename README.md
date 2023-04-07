@@ -12,8 +12,8 @@ Projeto de Estrutura de dados - Prof. Mario Augusto de Souza Liziér
 * Pilha: alocaçao estática.
 
 ### Sobre o projeto 
-     * Cada nó
-     
+Cada nó da nossa lista representa um Pallet, cada nó contém uma pilha própria, no sentido figurado, cada Pallet contém uma pilha de caixas permitindo que o usuário insira ou remova caixas do jeito que quiser.
+
 ## Rodando o Projeto
 1. Instale um compilador C em sua máquina.
 2. clone este repositório com o comando 'git clone https://github.com/Lucasllfs/Projeto-ED.git'.

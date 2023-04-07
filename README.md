@@ -3,7 +3,7 @@ Projeto de Estrutura de dados - Prof. Mario Augusto de Souza Liziér
 
 * Integrantes do Grupo:
   * Lucas Lima Felix da Silva
-  * Guilherme Fernades Rezende Santos
+  *sssss     Guilherme Fernades Rezende Santosk
   * Mateus Tsuyoshi Matsuo Hashimoto
   * Kaue Almeida Gonçalves de Oliveira
 ----

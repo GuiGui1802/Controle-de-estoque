@@ -11,10 +11,8 @@ Projeto de Estrutura de dados - Prof. Mario Augusto de Souza Liziér
 * Lista: alocação dinâmica, duplamente encadeada, com sentinela e circular.
 * Pilha: alocaçao estática.
 
-#### Sobre o projeto 
+### Sobre o projeto 
      * Cada nó da nossa lista representa um Pallet, cada nó contém uma pilha própria, no sentido figurado, cada Pallet contém uma pilha de caixas permitindo que o              usuário insira ou remova caixas do jeito que quiser.
-
-
 
 ## Rodando o Projeto
 1. Instale um compilador C em sua máquina.

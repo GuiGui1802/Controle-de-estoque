@@ -12,7 +12,7 @@ Projeto de Estrutura de dados - Prof. Mario Augusto de Souza Liziér
 * Pilha: alocaçao estática.
 
 #### Sobre o projeto 
-esqueça tudo
+     *Cada nó da nossa lista representa um Pallet, cada nó contém uma pilha própria, no sentido figurado, cada Pallet contém uma pilha de caixas permitindo que o usuário       insira ou remova caixas do jeito que quiser.
 
 
 
